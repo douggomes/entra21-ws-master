@@ -1,0 +1,9 @@
+T:\Documentos\GitHub\entra21-ws-master\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+T:\Documentos\GitHub\entra21-ws-master\Model\bin\Debug\netcoreapp2.1\Model.dll
+T:\Documentos\GitHub\entra21-ws-master\Model\bin\Debug\netcoreapp2.1\Model.pdb
+T:\Documentos\GitHub\entra21-ws-master\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+T:\Documentos\GitHub\entra21-ws-master\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+T:\Documentos\GitHub\entra21-ws-master\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+T:\Documentos\GitHub\entra21-ws-master\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+T:\Documentos\GitHub\entra21-ws-master\Model\obj\Debug\netcoreapp2.1\Model.dll
+T:\Documentos\GitHub\entra21-ws-master\Model\obj\Debug\netcoreapp2.1\Model.pdb

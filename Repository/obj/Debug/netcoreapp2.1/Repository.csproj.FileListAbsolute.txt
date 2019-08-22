@@ -1,0 +1,12 @@
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+T:\Documentos\GitHub\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+T:\Documentos\GitHub\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+T:\Documentos\GitHub\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Model.dll
+T:\Documentos\GitHub\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Model.pdb
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+T:\Documentos\GitHub\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+T:\Documentos\GitHub\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
